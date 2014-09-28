@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeluguLyricsWebApiService", "TeluguLyricsWebApi\TeluguLyricsWebApiService.csproj", "{36964B1B-624A-4CF8-B006-2FA9F114C9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeluguLyricsWebApiService.Tests", "TeluguLyricsWebApi.Tests\TeluguLyricsWebApiService.Tests.csproj", "{A0FE0E1E-D750-4FCE-8B5A-6351FC15DBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeluguLyricsModels", "TeluguLyricsModels\TeluguLyricsModels.csproj", "{5B2C1181-5359-43D8-AA30-F324DD4FB0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeluguLyricsRepositories", "TeluguLyricsRepositories\TeluguLyricsRepositories.csproj", "{3EBC96FF-74FC-446E-AE7B-9271F06E6340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36964B1B-624A-4CF8-B006-2FA9F114C9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36964B1B-624A-4CF8-B006-2FA9F114C9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36964B1B-624A-4CF8-B006-2FA9F114C9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36964B1B-624A-4CF8-B006-2FA9F114C9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FE0E1E-D750-4FCE-8B5A-6351FC15DBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FE0E1E-D750-4FCE-8B5A-6351FC15DBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FE0E1E-D750-4FCE-8B5A-6351FC15DBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FE0E1E-D750-4FCE-8B5A-6351FC15DBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2C1181-5359-43D8-AA30-F324DD4FB0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2C1181-5359-43D8-AA30-F324DD4FB0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2C1181-5359-43D8-AA30-F324DD4FB0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2C1181-5359-43D8-AA30-F324DD4FB0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBC96FF-74FC-446E-AE7B-9271F06E6340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBC96FF-74FC-446E-AE7B-9271F06E6340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBC96FF-74FC-446E-AE7B-9271F06E6340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBC96FF-74FC-446E-AE7B-9271F06E6340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
